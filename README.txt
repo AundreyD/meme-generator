@@ -1,3 +1,6 @@
-A Pen created at CodePen.io. You can find this one at http://codepen.io/aundreyd/pen/rxJvgR.
+Meme Generator
+JQuery
+This oroject is a meme geneerator using JQuery to add meme wording to an online image with a valid url
+http://codepen.io/aundreyd/pen/rxJvgR.
 
  
